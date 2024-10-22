@@ -103,7 +103,7 @@ If you already refer to some custom object spawner files, it should look somethi
 	
 -----
 
-If you'd like to make the logging off & on process faster for your players, open your globals.xml file, fimd the login / logoff timers and edit them
+If you'd like to make the logging off & on process faster for your players, open your globals.xml file, find the login / logoff timers and edit them
 to look like this:
 
  <var name="TimeLogin" type="0" value="5"/>
