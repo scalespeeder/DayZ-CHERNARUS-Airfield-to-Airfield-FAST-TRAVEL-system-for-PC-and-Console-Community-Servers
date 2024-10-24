@@ -123,7 +123,7 @@ add the following code to your types.xml file, near the top, after <types>
 
 <!--pilot npc-->
  
- <type name="SurvivorM_Mirek>
+ <type name="SurvivorM_Mirek">
         <nominal>0</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
